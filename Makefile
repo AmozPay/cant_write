@@ -6,3 +6,4 @@ all:
 	@mv cant_write ~/.cant_write
 	@echo "~/.cant_write" >> ~/.zshrc
 	@echo "~/.cant_write" >> ~/.bashrc
+	clear
